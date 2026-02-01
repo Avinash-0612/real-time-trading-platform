@@ -43,6 +43,15 @@ Raw Market Data → Kafka → Spark Streaming → Delta Lake → Power BI
 - **Silver:** Cleaned, validated data with schema enforcement
 - **Gold:** Aggregated metrics (1-min, 5-min, 1-hour candles)
 
+
+# 1. Start infrastructure
+docker-compose up -d
+
+# 2. Start data generator
+python src/producer.py
+
+# 3. Start processing
+python src/spark_streaming.py
 ### Prerequisites
 - Docker & Docker Compose
 - Python 3.9+
