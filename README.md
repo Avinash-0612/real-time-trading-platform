@@ -12,7 +12,7 @@ Let’s build a Real Time Financial Trading Platform - Real-time stock market da
 
 ## 📊 Architecture Overview
 
-//![Architecture](docs/architecture.png)
+
 
 **Tech Stack:**
 - **Ingestion:** Apache Kafka (3-node cluster) + Azure Event Hubs
