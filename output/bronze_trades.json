@@ -1,0 +1,1002 @@
+[
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:56.498192",
+    "price": 184.27,
+    "volume": 3744,
+    "bid": 184.09,
+    "ask": 184.45,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:56.498299",
+    "price": 407.7,
+    "volume": 6775,
+    "bid": 407.29,
+    "ask": 408.11,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:56.498305",
+    "price": 141.14,
+    "volume": 5439,
+    "bid": 141.0,
+    "ask": 141.28,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:56.498309",
+    "price": 196.97,
+    "volume": 9115,
+    "bid": 196.77,
+    "ask": 197.17,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:56.498312",
+    "price": 33.38,
+    "volume": 4896,
+    "bid": 33.35,
+    "ask": 33.41,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:56.603378",
+    "price": 186.58,
+    "volume": 4189,
+    "bid": 186.39,
+    "ask": 186.77,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:56.603404",
+    "price": 399.83,
+    "volume": 8759,
+    "bid": 399.43,
+    "ask": 400.23,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:56.603411",
+    "price": 178.85,
+    "volume": 2911,
+    "bid": 178.67,
+    "ask": 179.03,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:56.603417",
+    "price": 138.86,
+    "volume": 3843,
+    "bid": 138.72,
+    "ask": 139.0,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:56.603424",
+    "price": 252.05,
+    "volume": 4219,
+    "bid": 251.8,
+    "ask": 252.3,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:56.603429",
+    "price": 197.7,
+    "volume": 6247,
+    "bid": 197.5,
+    "ask": 197.9,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:56.708541",
+    "price": 183.79,
+    "volume": 6985,
+    "bid": 183.61,
+    "ask": 183.97,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:56.708601",
+    "price": 398.27,
+    "volume": 8392,
+    "bid": 397.87,
+    "ask": 398.67,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:56.708623",
+    "price": 177.93,
+    "volume": 4169,
+    "bid": 177.75,
+    "ask": 178.11,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:56.708647",
+    "price": 139.82,
+    "volume": 9207,
+    "bid": 139.68,
+    "ask": 139.96,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:56.708670",
+    "price": 252.36,
+    "volume": 8739,
+    "bid": 252.11,
+    "ask": 252.61,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:56.708691",
+    "price": 195.2,
+    "volume": 2581,
+    "bid": 195.0,
+    "ask": 195.4,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:56.708717",
+    "price": 32.84,
+    "volume": 8549,
+    "bid": 32.81,
+    "ask": 32.87,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:56.813244",
+    "price": 181.75,
+    "volume": 5083,
+    "bid": 181.57,
+    "ask": 181.93,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:56.813300",
+    "price": 180.74,
+    "volume": 6975,
+    "bid": 180.56,
+    "ask": 180.92,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:56.813312",
+    "price": 140.22,
+    "volume": 5882,
+    "bid": 140.08,
+    "ask": 140.36,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:56.813323",
+    "price": 195.08,
+    "volume": 9115,
+    "bid": 194.88,
+    "ask": 195.28,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:56.813332",
+    "price": 33.16,
+    "volume": 7754,
+    "bid": 33.13,
+    "ask": 33.19,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:56.917161",
+    "price": 179.8,
+    "volume": 186,
+    "bid": 179.62,
+    "ask": 179.98,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:56.917215",
+    "price": 393.8,
+    "volume": 6527,
+    "bid": 393.41,
+    "ask": 394.19,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:56.917227",
+    "price": 142.62,
+    "volume": 9559,
+    "bid": 142.48,
+    "ask": 142.76,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:56.917242",
+    "price": 249.73,
+    "volume": 6612,
+    "bid": 249.48,
+    "ask": 249.98,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:56.917251",
+    "price": 193.72,
+    "volume": 1372,
+    "bid": 193.53,
+    "ask": 193.91,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:56.917259",
+    "price": 32.53,
+    "volume": 6583,
+    "bid": 32.5,
+    "ask": 32.56,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:57.021274",
+    "price": 183.22,
+    "volume": 8311,
+    "bid": 183.04,
+    "ask": 183.4,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:57.021320",
+    "price": 387.85,
+    "volume": 8160,
+    "bid": 387.46,
+    "ask": 388.24,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:57.021342",
+    "price": 183.54,
+    "volume": 8282,
+    "bid": 183.36,
+    "ask": 183.72,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:57.021360",
+    "price": 142.14,
+    "volume": 3239,
+    "bid": 142.0,
+    "ask": 142.28,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:57.021382",
+    "price": 244.98,
+    "volume": 7983,
+    "bid": 244.74,
+    "ask": 245.22,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:57.122399",
+    "price": 186.01,
+    "volume": 856,
+    "bid": 185.82,
+    "ask": 186.2,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:57.122481",
+    "price": 183.42,
+    "volume": 8753,
+    "bid": 183.24,
+    "ask": 183.6,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:57.122505",
+    "price": 247.41,
+    "volume": 6011,
+    "bid": 247.16,
+    "ask": 247.66,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:57.122701",
+    "price": 194.46,
+    "volume": 8098,
+    "bid": 194.27,
+    "ask": 194.65,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:57.228158",
+    "price": 189.27,
+    "volume": 3326,
+    "bid": 189.08,
+    "ask": 189.46,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:57.228209",
+    "price": 143.36,
+    "volume": 9408,
+    "bid": 143.22,
+    "ask": 143.5,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:57.228233",
+    "price": 198.06,
+    "volume": 1358,
+    "bid": 197.86,
+    "ask": 198.26,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:57.332595",
+    "price": 191.97,
+    "volume": 5863,
+    "bid": 191.78,
+    "ask": 192.16,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:57.332647",
+    "price": 381.39,
+    "volume": 4998,
+    "bid": 381.01,
+    "ask": 381.77,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:57.332670",
+    "price": 183.93,
+    "volume": 7557,
+    "bid": 183.75,
+    "ask": 184.11,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:57.332689",
+    "price": 141.52,
+    "volume": 3885,
+    "bid": 141.38,
+    "ask": 141.66,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:57.332707",
+    "price": 199.6,
+    "volume": 742,
+    "bid": 199.4,
+    "ask": 199.8,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:57.332725",
+    "price": 32.85,
+    "volume": 8355,
+    "bid": 32.82,
+    "ask": 32.88,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:57.437826",
+    "price": 384.48,
+    "volume": 8915,
+    "bid": 384.1,
+    "ask": 384.86,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:57.437882",
+    "price": 180.26,
+    "volume": 2070,
+    "bid": 180.08,
+    "ask": 180.44,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:57.437900",
+    "price": 141.02,
+    "volume": 3636,
+    "bid": 140.88,
+    "ask": 141.16,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:57.438035",
+    "price": 249.92,
+    "volume": 9893,
+    "bid": 249.67,
+    "ask": 250.17,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:57.438055",
+    "price": 200.44,
+    "volume": 9332,
+    "bid": 200.24,
+    "ask": 200.64,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:57.543025",
+    "price": 189.15,
+    "volume": 9688,
+    "bid": 188.96,
+    "ask": 189.34,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:57.543116",
+    "price": 178.24,
+    "volume": 8806,
+    "bid": 178.06,
+    "ask": 178.42,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:57.543138",
+    "price": 141.21,
+    "volume": 5042,
+    "bid": 141.07,
+    "ask": 141.35,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:57.543157",
+    "price": 249.15,
+    "volume": 2088,
+    "bid": 248.9,
+    "ask": 249.4,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:57.543175",
+    "price": 201.29,
+    "volume": 7047,
+    "bid": 201.09,
+    "ask": 201.49,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:57.543198",
+    "price": 32.31,
+    "volume": 3201,
+    "bid": 32.28,
+    "ask": 32.34,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:57.647956",
+    "price": 188.32,
+    "volume": 7742,
+    "bid": 188.13,
+    "ask": 188.51,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:57.648032",
+    "price": 386.27,
+    "volume": 6173,
+    "bid": 385.88,
+    "ask": 386.66,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:57.648060",
+    "price": 179.85,
+    "volume": 3616,
+    "bid": 179.67,
+    "ask": 180.03,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:57.648084",
+    "price": 246.87,
+    "volume": 2399,
+    "bid": 246.62,
+    "ask": 247.12,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:57.648102",
+    "price": 199.6,
+    "volume": 2754,
+    "bid": 199.4,
+    "ask": 199.8,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:57.648122",
+    "price": 32.24,
+    "volume": 4048,
+    "bid": 32.21,
+    "ask": 32.27,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:57.751232",
+    "price": 191.26,
+    "volume": 4232,
+    "bid": 191.07,
+    "ask": 191.45,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:57.751310",
+    "price": 138.7,
+    "volume": 8126,
+    "bid": 138.56,
+    "ask": 138.84,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:57.751333",
+    "price": 244.76,
+    "volume": 5425,
+    "bid": 244.52,
+    "ask": 245.0,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:57.751356",
+    "price": 196.76,
+    "volume": 8581,
+    "bid": 196.56,
+    "ask": 196.96,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:57.751374",
+    "price": 32.52,
+    "volume": 8961,
+    "bid": 32.49,
+    "ask": 32.55,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:57.855081",
+    "price": 189.7,
+    "volume": 9918,
+    "bid": 189.51,
+    "ask": 189.89,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:57.855135",
+    "price": 393.79,
+    "volume": 1212,
+    "bid": 393.4,
+    "ask": 394.18,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:57.855155",
+    "price": 176.65,
+    "volume": 9357,
+    "bid": 176.47,
+    "ask": 176.83,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:57.855174",
+    "price": 240.46,
+    "volume": 2069,
+    "bid": 240.22,
+    "ask": 240.7,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:57.855193",
+    "price": 32.59,
+    "volume": 4036,
+    "bid": 32.56,
+    "ask": 32.62,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:57.956806",
+    "price": 395.64,
+    "volume": 3563,
+    "bid": 395.24,
+    "ask": 396.04,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:57.956860",
+    "price": 174.8,
+    "volume": 6359,
+    "bid": 174.63,
+    "ask": 174.97,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:57.956870",
+    "price": 196.81,
+    "volume": 4441,
+    "bid": 196.61,
+    "ask": 197.01,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:57.956887",
+    "price": 32.23,
+    "volume": 5116,
+    "bid": 32.2,
+    "ask": 32.26,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:58.061257",
+    "price": 190.81,
+    "volume": 8193,
+    "bid": 190.62,
+    "ask": 191.0,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:58.061345",
+    "price": 177.48,
+    "volume": 378,
+    "bid": 177.3,
+    "ask": 177.66,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:58.061366",
+    "price": 244.34,
+    "volume": 1064,
+    "bid": 244.1,
+    "ask": 244.58,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:58.061385",
+    "price": 31.97,
+    "volume": 4922,
+    "bid": 31.94,
+    "ask": 32.0,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:58.165836",
+    "price": 178.58,
+    "volume": 2091,
+    "bid": 178.4,
+    "ask": 178.76,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:58.165921",
+    "price": 141.14,
+    "volume": 9191,
+    "bid": 141.0,
+    "ask": 141.28,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:58.165942",
+    "price": 243.33,
+    "volume": 4235,
+    "bid": 243.09,
+    "ask": 243.57,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:58.165962",
+    "price": 199.53,
+    "volume": 2914,
+    "bid": 199.33,
+    "ask": 199.73,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:58.271134",
+    "price": 193.77,
+    "volume": 9024,
+    "bid": 193.58,
+    "ask": 193.96,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:58.271225",
+    "price": 400.02,
+    "volume": 5688,
+    "bid": 399.62,
+    "ask": 400.42,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:58.271250",
+    "price": 179.25,
+    "volume": 9195,
+    "bid": 179.07,
+    "ask": 179.43,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:58.271269",
+    "price": 139.14,
+    "volume": 2150,
+    "bid": 139.0,
+    "ask": 139.28,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "JPM",
+    "timestamp": "2026-02-01T22:37:58.271288",
+    "price": 196.2,
+    "volume": 2500,
+    "bid": 196.0,
+    "ask": 196.4,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "BAC",
+    "timestamp": "2026-02-01T22:37:58.271307",
+    "price": 32.19,
+    "volume": 9801,
+    "bid": 32.16,
+    "ask": 32.22,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:58.376298",
+    "price": 193.47,
+    "volume": 9958,
+    "bid": 193.28,
+    "ask": 193.66,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "MSFT",
+    "timestamp": "2026-02-01T22:37:58.376370",
+    "price": 405.58,
+    "volume": 7794,
+    "bid": 405.17,
+    "ask": 405.99,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:58.376392",
+    "price": 178.45,
+    "volume": 3381,
+    "bid": 178.27,
+    "ask": 178.63,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:58.376413",
+    "price": 141.51,
+    "volume": 8268,
+    "bid": 141.37,
+    "ask": 141.65,
+    "exchange": "NYSE",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "TSLA",
+    "timestamp": "2026-02-01T22:37:58.376436",
+    "price": 247.48,
+    "volume": 1544,
+    "bid": 247.23,
+    "ask": 247.73,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2026-02-01T22:37:58.481552",
+    "price": 195.99,
+    "volume": 8973,
+    "bid": 195.79,
+    "ask": 196.19,
+    "exchange": "NYSE",
+    "trade_type": "BUY"
+  },
+  {
+    "ticker": "AMZN",
+    "timestamp": "2026-02-01T22:37:58.481613",
+    "price": 181.58,
+    "volume": 3878,
+    "bid": 181.4,
+    "ask": 181.76,
+    "exchange": "NASDAQ",
+    "trade_type": "SELL"
+  },
+  {
+    "ticker": "GOOGL",
+    "timestamp": "2026-02-01T22:37:58.481637",
+    "price": 142.64,
+    "volume": 804,
+    "bid": 142.5,
+    "ask": 142.78,
+    "exchange": "NASDAQ",
+    "trade_type": "BUY"
+  }
+]

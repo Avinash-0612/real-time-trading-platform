@@ -1,0 +1,79 @@
+[
+  {
+    "ticker": "AAPL",
+    "open": 184.27,
+    "high": 219.4,
+    "low": 179.8,
+    "close": 190.51,
+    "volume": 373925,
+    "vwap": 198.41,
+    "trade_count": 74,
+    "timestamp": "2026-02-01T22:38:06.599786"
+  },
+  {
+    "ticker": "MSFT",
+    "open": 407.7,
+    "high": 411.43,
+    "low": 353.26,
+    "close": 387.53,
+    "volume": 401816,
+    "vwap": 382.63,
+    "trade_count": 74,
+    "timestamp": "2026-02-01T22:38:06.600635"
+  },
+  {
+    "ticker": "GOOGL",
+    "open": 141.14,
+    "high": 154.1,
+    "low": 138.7,
+    "close": 151.86,
+    "volume": 360567,
+    "vwap": 146.38,
+    "trade_count": 64,
+    "timestamp": "2026-02-01T22:38:06.601068"
+  },
+  {
+    "ticker": "JPM",
+    "open": 196.97,
+    "high": 202.46,
+    "low": 180.27,
+    "close": 184.33,
+    "volume": 370618,
+    "vwap": 193.61,
+    "trade_count": 70,
+    "timestamp": "2026-02-01T22:38:06.601625"
+  },
+  {
+    "ticker": "BAC",
+    "open": 33.38,
+    "high": 33.38,
+    "low": 30.32,
+    "close": 30.7,
+    "volume": 341553,
+    "vwap": 31.75,
+    "trade_count": 71,
+    "timestamp": "2026-02-01T22:38:06.602060"
+  },
+  {
+    "ticker": "AMZN",
+    "open": 178.85,
+    "high": 194.69,
+    "low": 174.8,
+    "close": 193.33,
+    "volume": 350501,
+    "vwap": 183.71,
+    "trade_count": 68,
+    "timestamp": "2026-02-01T22:38:06.602698"
+  },
+  {
+    "ticker": "TSLA",
+    "open": 252.05,
+    "high": 259.05,
+    "low": 237.63,
+    "close": 245.04,
+    "volume": 324975,
+    "vwap": 248.75,
+    "trade_count": 71,
+    "timestamp": "2026-02-01T22:38:06.603639"
+  }
+]
